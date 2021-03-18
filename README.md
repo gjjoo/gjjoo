@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm working on a template recently. 👨🏻‍💻
+These are projects to bring and write at any time when I'm working on a side project and study at any time. 🚀
+
+`Using ssr and graphql`
+- trabee-ui
+- trabee-web
+- trabee-api
+
+`Using spa and rest api`
+- tralog-web
+- tralog-api
+
 <!--
 **gjjoo/gjjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
