@@ -2,7 +2,7 @@
 
 I'm working on a template recently. 👨🏻‍💻
 
-These are projects to bring and write at any time when I'm working on a side project and study. 🚀
+These are projects to bring and write at any time when I'm working on a side project, study and test. 🚀
 
 Anyone can use this project and suggest features. 🤗
 
