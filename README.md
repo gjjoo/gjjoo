@@ -8,7 +8,7 @@ Anyone can use these projects and suggest features. 🤗
 
 `Using SSR and Graphql`
 
-This project is based on travel blogs and news topics.
+This project is based on digital nomad's stories and topics.
 
 - [Design System](https://github.com/trabeeteam/trabee-ui)
 - [Front End](https://github.com/trabeeteam/trabee-web)
