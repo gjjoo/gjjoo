@@ -8,7 +8,7 @@ Anyone can use these projects and suggest features. 🤗
 
 `Using SSR and Graphql`
 
-This project is based on digital nomad's stories and topics.
+The project provides information about countries, cities, and places for digital nomads.
 
 - [Design System](https://github.com/trabeeteam/trabee-ui)
 - [Front End](https://github.com/trabeeteam/trabee-web)
@@ -16,7 +16,7 @@ This project is based on digital nomad's stories and topics.
 
 `Using SPA and REST API`
 
-The project provides information about countries, cities, and places for digital nomads.
+This project is based on digital nomad's stories and topics.
 
 - [Front End](https://github.com/tralogteam/tralog-web)
 - [Back End](https://github.com/tralogteam/tralog-api)
