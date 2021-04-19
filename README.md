@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 I'm working on a template recently. 👨🏻‍💻
 
 These are projects to bring and write at any time when I'm working on a side project, study and test. 🚀
@@ -20,6 +21,8 @@ This project is based on digital nomad's stories and topics.
 
 - [Front End](https://github.com/tralogteam/tralog-web)
 - [Back End](https://github.com/tralogteam/tralog-api)
+
+-->
 
 <!--
 **gjjoo/gjjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
