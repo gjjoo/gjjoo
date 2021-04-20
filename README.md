@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-개인 홈페이지 : jakejoo.com
+개인 홈페이지
+ - [jakejoo.com](https://jakejoo.com)
 
-웹 디자인 도구 Framer 따라잡기 : (셋팅중)framer.jakejoo.com
+웹 디자인 도구 Framer 따라잡기 (셋팅중)
+ - [framer.jakejoo.com](https://framer.jakejoo.com)
 
-디지털노마드들의 이야기 : tralog.world
+디지털노마드들의 이야기
+ - [tralog.world](https://tralog.world)
 
-디지털노마드들을 위한 나라, 도시, 코워킹스페이스, 카페, 숙박 정보 : (셋팅중)trabee.world
+디지털노마드들을 위한 나라, 도시, 코워킹스페이스, 카페, 숙박 정보 (셋팅중)
+ - [trabee.world](https://trabee.world)
 
 <!--
 I'm working on a template recently. 👨🏻‍💻
