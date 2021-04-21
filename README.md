@@ -3,7 +3,7 @@
 개인 홈페이지
  - [jakejoo.com](https://jakejoo.com)
 
-웹 디자인 도구 Framer 따라잡기 (셋팅중)
+웹 디자인 도구 Framer 따라잡기
  - [framer.jakejoo.com](https://framer.jakejoo.com)
 
 디지털노마드들의 이야기
